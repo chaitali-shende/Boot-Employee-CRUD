@@ -65,11 +65,13 @@ Boot-Employee_CRUD/
 ## Sample Output
 
 ### Adding Employee
-![Add Employee](screenshots/add_employee.png)
+![Add Employee](screenshots/Add Operation.png)
 
-### Viewing Employees
-![View Employees](screenshots/view_employees.png)
+### Deleting Employees
+![Delete Employees](Delete Operation1.png)
+
+![Delete Employees](Delete Operation2.png)
 
 ### Updating Salary
-![Update Salary](screenshots/update_salary.png)
+![Update Salary](screenshots/Update Operation.png)
 
